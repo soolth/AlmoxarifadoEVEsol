@@ -11,19 +11,15 @@ namespace AlmoxarifadoBackAPI.Repositorio
         {
             modelBuilder.Entity<Categoria>().HasKey(c=>c.Codigo);
             modelBuilder.Entity<Categoria>().Property(c => c.Codigo).ValueGeneratedOnAdd();
+            modelBuilder.Entity<Produto>().HasKey(c => c.IdProduto);
+            modelBuilder.Entity<Produto>().Property(propertyExpression: static c => c.IdProduto).ValueGeneratedOnAdd();
+            modelBuilder.Entity<Fornecedor>().HasKey(c => c.IdFornecedor);
+            modelBuilder.Entity<Fornecedor>().Property(propertyExpression: static c => c.IdFornecedor).ValueGeneratedOnAdd();
 
         }
         public DbSet<Categoria> Categoria { get; set; }
-
-        public Context(DbContextOptions<Context> options) : base(options) { }
-
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Produto>().HasKey(c => c.IdProduto);
-            modelBuilder.Entity<Produto>().Property(propertyExpression: static c => c.IdProduto).ValueGeneratedOnAdd();
-
-        }
-        public DbSet<Produto> Produtos { get; set; }
+        public DbSet<Produto> Produto { get; set; }
+        public DbSet<Fornecedor> Fornecedor { get; set; }
 
     }
 }

@@ -18,9 +18,9 @@ namespace AlmoxarifadoBackAPI.Repositorio
             _db.SaveChanges();
         }
 
-        public List<Categoria> GetAll()
+        public List<Produto> GetAll()
         {
-            return _db.Categoria.ToList();
+            return _db.Produto.ToList();
         }
     }
 }

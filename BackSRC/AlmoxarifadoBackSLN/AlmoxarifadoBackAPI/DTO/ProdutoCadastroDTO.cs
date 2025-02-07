@@ -7,5 +7,8 @@
         public int EPermanente { get; set; }
         public int EstoqueAtual { get; set; }
         public double PrecoProduto { get; set; }
+        public int IdCategoria { get; set; }
+
     }
+
 }

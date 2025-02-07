@@ -18,7 +18,7 @@ namespace AlmoxarifadoBackAPI.Controllers
 
         }
 
-        [HttpGet("/lista")]
+        [HttpGet("/listaProduto")]
         public IActionResult listaProdutos()
         {
             return Ok(_db.GetAll());
@@ -36,7 +36,11 @@ namespace AlmoxarifadoBackAPI.Controllers
 
             var novoProduto = new Produto()
             {
-                Descricao = produto.Descricao
+                Descricao = produto.Descricao,
+                UnMedida = produto.UnMedida,
+                EstoqueAtual = produto.EstoqueAtual,
+                PrecoProduto = produto.PrecoProduto,
+                IdCategoria = produto.IdCategoria
             };
             //_categorias.Add(novaCategoria);
             _db.Add(novoProduto);

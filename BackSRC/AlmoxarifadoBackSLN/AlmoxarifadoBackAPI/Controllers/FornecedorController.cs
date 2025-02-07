@@ -6,39 +6,40 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AlmoxarifadoBackAPI.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
-    public class CategoriaController : ControllerBase
+    public class FonecedorController : ControllerBase
     {
-        private readonly ICategoriaRepositorio _db;
-        public CategoriaController(ICategoriaRepositorio db)
+        private IFornecedorRepositorio _db;
+
+        public FonecedorController(IFornecedorRepositorio db)
         {
             _db = db;
 
         }
 
-        [HttpGet("/listaCategoria")]
-        public IActionResult listaCategorias()
+        [HttpGet("/listaFornecedor")]
+        public IActionResult listaFornecedor()
         {
             return Ok(_db.GetAll());
         }
 
-        [HttpPost("/categoria")]
-        public IActionResult listaCategorias(CategoriaDTO categoria)
+        [HttpPost("/Fornecedor")]
+        public IActionResult listaFornecedor(FornecedorDTO fornecedor)
         {
-            return Ok(_db.GetAll().Where(x=>x.Codigo==categoria.Codigo));
+            return Ok(_db.GetAll().Where(x => x.IdFornecedor == fornecedor.IdFornecedor));
         }
 
-        [HttpPost("/criarcategoria")]
-        public IActionResult criarCategoria(CategoriaCadastroDTO categoria)
+        [HttpPost("/criarFornecedor")]
+        public IActionResult criarFornecedor(FornecedorCadastroDTO fornecedor)
         {
 
-            var novaCategoria = new Categoria()
-            {
-                Descricao = categoria.Descricao
+            var novoFornecedor = new Fornecedor() { 
+                NomeFornecedor = fornecedor.NomeFornecedor,
+                EnderecoFornecedor =fornecedor.EnderecoFornecedor
             };
             //_categorias.Add(novaCategoria);
-            _db.Add(novaCategoria);
+            _db.Add(novoFornecedor);
             return Ok("Cadastro com Sucesso");
         }
 
@@ -57,10 +58,8 @@ namespace AlmoxarifadoBackAPI.Controllers
         //        return Ok("Produdo não localizado");
         //    }
 
-            
+
         //}
-
-
 
     }
 }
