@@ -2,7 +2,7 @@
 
 namespace AlmoxarifadoBackAPI.Repositorio
 {
-    public class FornecedorRepositorio :IFornecedorRepositorio
+    public class FornecedorRepositorio : IFornecedorRepositorio
     {
         private readonly Context _db;
 
