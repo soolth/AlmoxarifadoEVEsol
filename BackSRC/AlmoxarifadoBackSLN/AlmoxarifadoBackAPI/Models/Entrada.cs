@@ -1,4 +1,6 @@
-﻿namespace AlmoxarifadoBackAPI.Models
+﻿using Microsoft.VisualBasic;
+
+namespace AlmoxarifadoBackAPI.Models
 {
     public class Entrada
     {
@@ -8,6 +10,6 @@
 
         public int IdFornecedor { get; set; }
 
-        public date DataDeEntrada { get; set; }
+        public DateAndTime DataDeEntrada { get; set; }
     }
 }

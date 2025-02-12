@@ -8,6 +8,8 @@
         public string CNPJ { get; set; }
         public string Telefone { get; set; }
         public string EstadoSigla { get; set; }
+        public string Cidade { get; set; }
+        public string Bairro { get; set; }
 
     }
 }
