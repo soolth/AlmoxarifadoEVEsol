@@ -16,6 +16,7 @@ builder.Services.AddDbContext<Context>(options =>
 builder.Services.AddScoped<ICategoriaRepositorio, CategoriaRepositorio>();
 builder.Services.AddScoped<IProdutoRepositorio, ProdutoRepositorio>();
 builder.Services.AddScoped<IFornecedorRepositorio, FornecedorRepositorio>();
+builder.Services.AddScoped<IEntradaRepositorio, EntradaRepositorio>();
 
 var app = builder.Build();
 

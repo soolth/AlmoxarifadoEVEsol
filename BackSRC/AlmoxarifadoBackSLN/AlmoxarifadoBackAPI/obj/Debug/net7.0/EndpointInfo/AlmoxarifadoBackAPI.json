@@ -79,6 +79,80 @@
         }
       }
     },
+    "/listaEntrada": {
+      "get": {
+        "tags": [
+          "Entrada"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Entrada": {
+      "post": {
+        "tags": [
+          "Entrada"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EntradaDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EntradaDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EntradaDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/criarentrada": {
+      "post": {
+        "tags": [
+          "Entrada"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EntradaCadastroDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EntradaCadastroDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EntradaCadastroDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/listaFornecedor": {
       "get": {
         "tags": [
@@ -289,6 +363,34 @@
         },
         "additionalProperties": false
       },
+      "EntradaCadastroDTO": {
+        "type": "object",
+        "properties": {
+          "observacao": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idFornecedor": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dataDeEntrada": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EntradaDTO": {
+        "type": "object",
+        "properties": {
+          "idEntrada": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "FornecedorCadastroDTO": {
         "type": "object",
         "properties": {
@@ -299,6 +401,26 @@
           "enderecoFornecedor": {
             "type": "string",
             "nullable": true
+          },
+          "cnpj": {
+            "type": "string",
+            "nullable": true
+          },
+          "telefone": {
+            "type": "string",
+            "nullable": true
+          },
+          "estadoSigla": {
+            "type": "string",
+            "nullable": true
+          },
+          "cidade": {
+            "type": "string",
+            "nullable": true
+          },
+          "bairro": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -306,7 +428,7 @@
       "FornecedorDTO": {
         "type": "object",
         "properties": {
-          "idFornecedor": {
+          "codigoF": {
             "type": "integer",
             "format": "int32"
           }

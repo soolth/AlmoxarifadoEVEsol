@@ -1,11 +1,9 @@
 ﻿using Microsoft.VisualBasic;
 
-namespace AlmoxarifadoBackAPI.Models
+namespace AlmoxarifadoBackAPI.DTO
 {
-    public class Entrada
+    public class EntradaCadastroDTO
     {
-        public int IdEntrada { get; set; }
-
         public int Observacao { get; set; }
 
         public int IdFornecedor { get; set; }

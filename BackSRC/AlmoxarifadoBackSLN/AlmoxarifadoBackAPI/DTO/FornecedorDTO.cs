@@ -2,6 +2,6 @@
 {
     public class FornecedorDTO
     {
-        public int IdFornecedor { get; set; }
+        public int CodigoF { get; set; }
     }
 }

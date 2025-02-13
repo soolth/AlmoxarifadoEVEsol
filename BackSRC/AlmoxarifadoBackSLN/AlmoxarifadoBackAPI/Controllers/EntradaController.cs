@@ -6,45 +6,41 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AlmoxarifadoBackAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
-    public class FonecedorController : ControllerBase
+    public class EntradaController : ControllerBase
     {
-        private IFornecedorRepositorio _db;
-
-        public FonecedorController(IFornecedorRepositorio db)
+        private readonly IEntradaRepositorio _db;
+        public EntradaController(IEntradaRepositorio db)
         {
             _db = db;
 
         }
 
-        [HttpGet("/listaFornecedor")]
-        public IActionResult listaFornecedor()
+        [HttpGet("/listaEntrada")]
+        public IActionResult listaEntradas()
         {
             return Ok(_db.GetAll());
         }
 
-        [HttpPost("/Fornecedor")]
-        public IActionResult listaFornecedor(FornecedorDTO fornecedor)
+        [HttpPost("/Entrada")]
+        public IActionResult listaCategorias(EntradaDTO entrada)
         {
-            return Ok(_db.GetAll().Where(x => x.CodigoF == fornecedor.CodigoF));
+            return Ok(_db.GetAll().Where(x=>x.IdEntrada==entrada.IdEntrada));
         }
 
-        [HttpPost("/criarFornecedor")]
-        public IActionResult criarFornecedor(FornecedorCadastroDTO fornecedor)
+        [HttpPost("/criarentrada")]
+        public IActionResult criarEntrada(EntradaCadastroDTO entrada)
         {
 
-            var novoFornecedor = new Fornecedor() { 
-                NomeFornecedor = fornecedor.NomeFornecedor,
-                EnderecoFornecedor =fornecedor.EnderecoFornecedor,
-                CNPJ = fornecedor.CNPJ,
-                Telefone = fornecedor.Telefone,
-                EstadoSigla = fornecedor.EstadoSigla,
-                Cidade = fornecedor.Cidade,
-                Bairro = fornecedor.Bairro
+            var novaentrada = new Entrada()
+            {
+                Observacao = entrada.Observacao,
+                 IdFornecedor = entrada.IdFornecedor,
+                  DataDeEntrada = entrada.DataDeEntrada
             };
             //_categorias.Add(novaCategoria);
-            _db.Add(novoFornecedor);
+            _db.Add(novaentrada);
             return Ok("Cadastro com Sucesso");
         }
 
@@ -63,8 +59,10 @@ namespace AlmoxarifadoBackAPI.Controllers
         //        return Ok("Produdo não localizado");
         //    }
 
-
+            
         //}
+
+
 
     }
 }
