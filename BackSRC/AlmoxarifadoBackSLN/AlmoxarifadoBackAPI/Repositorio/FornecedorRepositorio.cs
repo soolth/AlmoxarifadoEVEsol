@@ -22,5 +22,7 @@ namespace AlmoxarifadoBackAPI.Repositorio
         {
             return _db.Fornecedor.ToList();
         }
+
+
     }
 }

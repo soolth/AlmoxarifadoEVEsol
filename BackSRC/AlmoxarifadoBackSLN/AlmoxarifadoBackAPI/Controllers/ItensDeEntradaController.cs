@@ -10,8 +10,8 @@ namespace AlmoxarifadoBackAPI.Controllers
     [ApiController]
     public class ItensDeEntradaController : ControllerBase
     {
-        private readonly IEntradaRepositorio _db;
-        public ItensDeEntradaController(IEntradaRepositorio db)
+        private readonly IItensEntradaRepositorio _db;
+        public ItensDeEntradaController(IItensEntradaRepositorio db)
         {
             _db = db;
 
@@ -24,16 +24,16 @@ namespace AlmoxarifadoBackAPI.Controllers
         }
 
         [HttpPost("/ItensDeEntrada")]
-        public IActionResult listaCategorias(ItensDeEntradaDTO ItensDeentrada)
+        public IActionResult listaItensEntrada(ItensDeEntradaDTO ItensDeEntrada)
         {
-            return Ok(_db.GetAll().Where(x => x.IdItensDeEntrada == ItensDeentrada.IdItensDeEntrada));
+            return Ok(_db.GetAll().Where(x => x.IdItensDeEntrada == ItensDeEntrada.IdItensDeEntrada));
         }
 
         [HttpPost("/criarItensDeentrada")]
-        public IActionResult criarItensDeEntrada(ItensDeEntradaCadastroDTO ItensDeentrada)
+        public IActionResult criarItensDeEntrada(ItensDeEntradaCadastroDTO ItensDeEntrada)
         {
 
-            var novaItensDeentrada = new ItensDeEntrada()
+            var novaItensDeEntrada = new ItensDeEntrada()
             {
                 IdProduto = ItensDeEntrada.IdProduto,
                 IdFornecedor = ItensDeEntrada.IdFornecedor,
@@ -44,6 +44,8 @@ namespace AlmoxarifadoBackAPI.Controllers
                 Total = ItensDeEntrada.Total,
             };
             //_categorias.Add(novaCategoria);
-            _db.Add(novaentrada);
+            _db.Add(novaItensEntrada);
             return Ok("Cadastro com Sucesso");
         }
+    }
+}
