@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\itensdesaidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\itensdesaidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\itensdeentradacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\itensdeentradacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\entradacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\entradacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\secretariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\secretariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\saidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\saidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\almoxarifadobackapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\almoxarifadobackapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\dto\\fornecedorcadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\dto\\itensdeentradadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\dto\\itensdeentradadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\models\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\models\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\saidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\saidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\secretariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,22 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\repositorio\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\entradacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\entradacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\iitensdesaidarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\saidarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\repositorio\\saidarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\secretariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\secretariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\isecretariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,14 +195,6 @@
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\repositorio\\entradarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\itensdesaidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\itensdesaidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\dto\\produtocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\dto\\produtocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -211,10 +223,6 @@
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\tarde.cetafest\\documents\\github\\almoxarifadoevesol\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -234,11 +242,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItensDeSaidaController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ItensDeSaidaController.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\ItensDeSaidaController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ItensDeSaidaController.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\ItensDeSaidaController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:22:08.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntradaController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:57:42.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\FornecedorController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:14:39.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItensDeEntradaController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ItensDeEntradaController.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\ItensDeEntradaController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ItensDeEntradaController.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\ItensDeEntradaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:05:00.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:29:25.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SaidaController.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\SaidaController.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\SaidaController.cs",
@@ -251,306 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Entrada.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Entrada.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Entrada.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Entrada.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\Entrada.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T11:48:14.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IFornecedorRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IFornecedorRepositorio.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\IFornecedorRepositorio.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IFornecedorRepositorio.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\IFornecedorRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T18:09:40.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ItensDeEntradaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaDTO.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:04:04.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:52:21.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T14:03:55.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriaCadastroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T18:58:00.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FornecedorCadastroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\FornecedorCadastroDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\FornecedorCadastroDTO.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\FornecedorCadastroDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\FornecedorCadastroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T18:06:44.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ItensDeEntradaController.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ItensDeEntradaController.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\ItensDeEntradaController.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ItensDeEntradaController.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\ItensDeEntradaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:05:00.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SecretariaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\SecretariaRepositorio.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\SecretariaRepositorio.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\SecretariaRepositorio.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\SecretariaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:20:34.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ItensDeEntradaCadastroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaCadastroDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaCadastroDTO.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaCadastroDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaCadastroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:55:57.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ItensDeEntrada.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\ItensDeEntrada.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\ItensDeEntrada.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\ItensDeEntrada.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\ItensDeEntrada.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:44:53.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T20:02:36.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Program.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Program.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T14:11:48.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FornecedorController.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\FornecedorController.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\FornecedorController.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\FornecedorController.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\FornecedorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T18:14:39.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EntradaController.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T11:57:42.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\appsettings.json",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-24T18:39:08.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IItensDeSaidaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IItensDeSaidaRepositorio.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\IItensDeSaidaRepositorio.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IItensDeSaidaRepositorio.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\IItensDeSaidaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:16:33.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ItensDeSaidaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaidaRepositorio.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaidaRepositorio.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaidaRepositorio.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaidaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:19:58.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ItensDeSa\u00EDda.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\ItensDeSa\u00EDda.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\ItensDeSa\u00EDda.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\ItensDeSa\u00EDda.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\ItensDeSa\u00EDda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:08:37.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IdItensDeSaidaCadastroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\IdItensDeSaidaCadastroDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\IdItensDeSaidaCadastroDTO.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\IdItensDeSaidaCadastroDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\IdItensDeSaidaCadastroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:13:41.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ItensDeSaidaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeSaidaDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ItensDeSaidaDTO.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeSaidaDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\ItensDeSaidaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:11:46.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProdutoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ProdutoDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ProdutoDTO.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ProdutoDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\ProdutoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:29:56.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SaidaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\SaidaRepositorio.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\SaidaRepositorio.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\SaidaRepositorio.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\SaidaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:35:44.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "SecretariaController.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\SecretariaController.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\SecretariaController.cs",
@@ -563,7 +337,306 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:27:33.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:52:21.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:12:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlmoxarifadoBackAPI",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T12:57:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriaCadastroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:58:00.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:03:55.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItensDeEntradaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaDTO.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:04:04.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFornecedorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IFornecedorRepositorio.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\IFornecedorRepositorio.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IFornecedorRepositorio.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\IFornecedorRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:09:40.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Entrada.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Entrada.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Entrada.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\Entrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:48:14.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\appsettings.json",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T18:39:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Program.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:11:48.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FornecedorCadastroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\FornecedorCadastroDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\FornecedorCadastroDTO.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\FornecedorCadastroDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\FornecedorCadastroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:06:44.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SecretariaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\SecretariaRepositorio.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\SecretariaRepositorio.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\SecretariaRepositorio.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\SecretariaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:20:34.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ItensDeEntradaCadastroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaCadastroDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaCadastroDTO.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaCadastroDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\ItensDeEntradaCadastroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:55:57.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ItensDeEntrada.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\ItensDeEntrada.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\ItensDeEntrada.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\ItensDeEntrada.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\ItensDeEntrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:44:53.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:02:36.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IItensDeSaidaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IItensDeSaidaRepositorio.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\IItensDeSaidaRepositorio.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IItensDeSaidaRepositorio.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\IItensDeSaidaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:16:33.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItensDeSaidaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaidaRepositorio.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaidaRepositorio.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaidaRepositorio.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaidaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:19:58.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "ItensDeSa\u00EDda.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\ItensDeSa\u00EDda.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\ItensDeSa\u00EDda.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\ItensDeSa\u00EDda.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\ItensDeSa\u00EDda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:08:37.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IdItensDeSaidaCadastroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\IdItensDeSaidaCadastroDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\IdItensDeSaidaCadastroDTO.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\IdItensDeSaidaCadastroDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\IdItensDeSaidaCadastroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:13:41.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ItensDeSaidaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeSaidaDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ItensDeSaidaDTO.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ItensDeSaidaDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\ItensDeSaidaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:11:46.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ProdutoDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\ProdutoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:29:56.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SaidaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\SaidaRepositorio.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\SaidaRepositorio.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\SaidaRepositorio.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\SaidaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:35:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "ISecretariaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ISecretariaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ISecretariaRepositorio.cs",
@@ -576,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ProdutoRepositorio.cs",
@@ -589,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "SecretariaCadastroDTO.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\SecretariaCadastroDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\SecretariaCadastroDTO.cs",
@@ -602,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "SecretariaDTO.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\SecretariaDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\SecretariaDTO.cs",
@@ -615,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "SaidaDTO.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\SaidaDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\SaidaDTO.cs",
@@ -628,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "Secretaria.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Secretaria.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Secretaria.cs",
@@ -641,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "ItensDeSaida.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaida.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ItensDeSaida.cs",
@@ -654,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "IEntradaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IEntradaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\IEntradaRepositorio.cs",
@@ -667,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "ISaidaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ISaidaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ISaidaRepositorio.cs",
@@ -680,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "SaidaCadastroDTO.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\SaidaCadastroDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\SaidaCadastroDTO.cs",
@@ -693,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "ItensDeEntradaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ItensDeEntradaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ItensDeEntradaRepositorio.cs",
@@ -706,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "Saida.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Saida.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Saida.cs",
@@ -719,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "IItensDeEntradaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IItensDeEntradaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\IItensDeEntradaRepositorio.cs",
@@ -732,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "IProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\IProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\IProdutoRepositorio.cs",
@@ -745,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "ICategoriaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ICategoriaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ICategoriaRepositorio.cs",
@@ -758,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "FornecedorRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\FornecedorRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\FornecedorRepositorio.cs",
@@ -771,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "CategoriaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs",
@@ -784,7 +857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "EntradaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\EntradaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\EntradaRepositorio.cs",
@@ -797,37 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ItensDeSaidaController.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ItensDeSaidaController.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\ItensDeSaidaController.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ItensDeSaidaController.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\ItensDeSaidaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:27:33.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:29:25.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Produto.cs",
@@ -840,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Categoria.cs",
@@ -853,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "ProdutoCadastroDTO.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\ProdutoCadastroDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\ProdutoCadastroDTO.cs",
@@ -866,7 +909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "EntradaCadastroDTO.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\EntradaCadastroDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\EntradaCadastroDTO.cs",
@@ -874,11 +917,12 @@
               "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\EntradaCadastroDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T11:46:52.42Z"
+              "WhenOpened": "2025-02-13T11:46:52.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "FornecedorDTO.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\FornecedorDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\FornecedorDTO.cs",
@@ -886,11 +930,12 @@
               "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\FornecedorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T18:06:15.9Z"
+              "WhenOpened": "2025-02-07T18:06:15.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "EntradaDTO.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\EntradaDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\EntradaDTO.cs",
@@ -898,11 +943,12 @@
               "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\EntradaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T11:45:30.036Z"
+              "WhenOpened": "2025-02-13T11:45:30.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Fornecedor.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Fornecedor.cs",
@@ -910,23 +956,12 @@
               "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\Fornecedor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T18:03:54.293Z"
+              "WhenOpened": "2025-02-07T18:03:54.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:27:33.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\WeatherForecast.cs",
@@ -934,30 +969,37 @@
               "RelativeToolTip": "AlmoxarifadoBackAPI\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:27:20.855Z"
+              "WhenOpened": "2025-02-03T13:27:20.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "AlmoxarifadoBackAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-24T20:03:16.347Z"
+              "WhenOpened": "2025-01-24T20:03:16.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "AlmoxarifadoBackAPI",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
               "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
               "RelativeToolTip": "AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-24T20:02:57.33Z"
+              "WhenOpened": "2025-01-24T20:02:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

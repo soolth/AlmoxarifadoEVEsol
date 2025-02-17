@@ -1,12 +1,44 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AlmoxarifadoBackAPI.DTO;
+using AlmoxarifadoBackAPI.Models;
+using AlmoxarifadoBackAPI.Repositorio;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AlmoxarifadoBackAPI.Controllers
 {
-    public class ItensDeSaidaController : Controller
+    [Route("[controller]")]
+    [ApiController]
+    [Authorize]
+    public class ItensDeSaidaController : ControllerBase
     {
-        public IActionResult Index()
+        private readonly IItensDeSaidaRepositorio _db;
+        public ItensDeSaidaController(IItensDeSaidaRepositorio db)
         {
-            return View();
+            _db = db;
+
         }
-    }
-}
+
+        [HttpGet("/listaItensDeSaida")]
+        public IActionResult listaItensDeSaida()
+        {
+            return Ok(_db.GetAll());
+        }
+
+        [HttpPost("/ItensDeSaida")]
+        public IActionResult listaItensDeSaida(ItensDeSaidaDTO ItensDeSaida)
+        {
+            return Ok(_db.GetAll().Where(x => x.Codigo == categoria.Codigo));
+        }
+
+        [HttpPost("/criarItensDeSaida")]
+        public IActionResult criarItensDeSaida(ItensDeSaidaCadastroDTO ItensDeSaida)
+        {
+
+            var novoItensDeSaida = new ItensDeSaida()
+            {
+                Descricao = categoria.Descricao
+            };
+            _db.Add(novoItensDeSaida);
+            return Ok("Cadastro com Sucesso");
+        }
