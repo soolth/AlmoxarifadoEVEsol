@@ -3199,11 +3199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+      "projectUniqueName": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
       "projectName": "AlmoxarifadoBackAPI",
-      "projectPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+      "projectPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
       "packagesPath": "C:\\Users\\tarde.cetafest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
+      "outputPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\AlmoxarifadoEVEsol\\AlmoxarifadoEVEsol\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -226,3 +226,12 @@ C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\BackSRC\Almoxarifado
 C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.pdb
 C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.genruntimeconfig.cache
 C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\ref\AlmoxarifadoBackAPI.dll
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.csproj.AssemblyReference.cache
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.AssemblyInfo.cs
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.sourcelink.json
+C:\Users\tarde.cetafest\Documents\GitHub\AlmoxarifadoEVEsol\AlmoxarifadoEVEsol\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.pdb
